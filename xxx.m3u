@@ -1,0 +1,506 @@
+#EXTM3U
+#EXTINF:0,Brandnite TV HD
+#EXTVLCOPT:http-reconnect=true
+https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/xxlpl.png" tvg-country="PL",XXL
+http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png" tvg-country="PL",Redlight
+http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png" tvg-country="PL",Dorcel TV
+http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+#EXTINF:11.384 tvg-logo="https://epg.ovh/logo/Private+TV+HD.png" tvg-country="PL",Private TV
+http://82.42.140.103:8001/1:0:1:4222:2f44:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustler.png" tvg-country="PL",Hustler TV
+http://82.42.140.103:8001/1:0:16:100B:451:35:C00000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/bluehustler.png" tvg-country="PL",Blue Hustler HD
+http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png" tvg-country="PL",Hustler HD
+http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png" tvg-country="PL",Hustler HD
+http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtveurope.png" tvg-country="PL",Vivid TV Europe
+http://82.42.140.103:8001/1:0:16:FE0:451:35:C00000:0:0:0:
+#EXTINF:7.204 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtouch.png" tvg-country="PL",Vivid Touch
+http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
+#EXTINF:0 tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividred.png" tvg-country="PL",Vivid Red HD
+http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0: 
+#EXTINF:4.19124,Redlight FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674061
+#EXTINF:2.832,Dorcel FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5529
+#EXTINF:7.664,Dusk (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19678
+#EXTINF:-1,Hustler FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674060
+#EXTINF:-1,Hustler (18+) US
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5525
+#EXTINF:9.28399,Maiden van Holland (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674125
+#EXTINF:2.02272,PlayBoy TV HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19674
+#EXTINF:16.3645,Play Boy CA (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/17717
+#EXTINF:4.416,PlayBoy TV (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19673
+#EXTINF:2.59334,Playboy (18+) ES
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5512
+#EXTINF:5.90619,Pink' o TV (18+) IT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/16348
+#EXTINF:3.56,Pink Erotic 1 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5521
+#EXTINF:7.98244,Pink Erotic 2 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5520
+#EXTINF:3.41335,Pink Erotic 3 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5519
+#EXTINF:5.12,Pink Erotic 4 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5518
+#EXTINF:4.56,Pink Erotic 5 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5517
+#EXTINF:2.09802,Pink Erotic 6 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5516
+#EXTINF:2.29402,Pink Erotic 7 FHD (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5515
+#EXTINF:2.57402,Pink Erotic 8 (18+) EX-YU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5514
+#EXTINF:7.82318,Porn 1 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5494
+#EXTINF:5.33839,Porn 2 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5493
+#EXTINF:6.19837,Porn 3 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5492
+#EXTINF:8.20527,Porn 4 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5491
+#EXTINF:1.82859,Porn 5 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5490
+#EXTINF:-1,Porn 6 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5489
+#EXTINF:7.96445,Porn 7 HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5488
+#EXTINF:3.83717,Porn 8 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5487
+#EXTINF:9.9846,Porn 9 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5486
+#EXTINF:8.146,Porn 10 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5485
+#EXTINF:7.54649,Primafila Hot Club 2 HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5509
+#EXTINF:5.552,Primafila Hot Club 3 HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5508
+#EXTINF:6.90278,Primafila Hot Club 4 FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5507
+#EXTINF:6.84017,Primafila Hot Club 6 FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5505
+#EXTINF:-1,Primafila Hot Club 7 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5504
+#EXTINF:5.75898,Primafila Hot Club 8 FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5503
+#EXTINF:4.28347,Primafila Hot Club 9 FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5502
+#EXTINF:4.33067,Blacked FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5495
+#EXTINF:-1,Bunga Bunga (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5532
+#EXTINF:2.66066,ButGo (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19684
+#EXTINF:2.46793,Candy (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19683
+#EXTINF:-1,Centoxcento TV (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19682
+#EXTINF:5.2,Cento Cento HD (18+) IT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5531
+#EXTINF:4.74904,Daughter Swap (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19680
+#EXTINF:10.0116,Dusk DeLuxe (18+) NL
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5528
+#EXTINF:6.91858,Desire FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5530
+#EXTINF:5.496,Hot HD (18+) PT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13397
+#EXTINF:5.792,Hot (18+) PT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5526
+#EXTINF:5.184,Dorcel (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19679
+#EXTINF:-1,Leo TV (18+) CZ
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/16350
+#EXTINF:-1,Jasmin TV (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/16002
+#EXTINF:-1,Passie (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13402
+#EXTINF:-1,O La La FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5523
+#EXTINF:-1,Moms Teach (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13401
+#EXTINF:-1,Meiden van Holland Hard (18+) NL
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5524
+#EXTINF:-1,Penthouse FHD (18+) US
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5522
+#EXTINF:-1,Platinum FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5513
+#EXTINF:-1,Private (18+) NL
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5501
+#EXTINF:-1,Reality Kings (18+) US
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13399
+#EXTINF:-1,Reality Sex (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19670
+#EXTINF:-1,Red Light (18+) NL
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5500
+#EXTINF:-1,SCT HD (18+) IT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5498
+#EXTINF:-1,Sext Senso (18+) IT
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5497
+#EXTINF:-1,Sirina 1 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5536
+#EXTINF:-1,Sirina 2 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5535
+#EXTINF:-1,Sirina 3 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5534
+#EXTINF:-1,Pleasure (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19672
+#EXTINF:-1,TGirls (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13398
+#EXTINF:-1,Venus (18+) AR
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/5496
+#EXTINF:-1,SuperOne HD (18+) HU
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/16347
+#EXTINF:-1,Hot Club (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19687
+#EXTINF:-1,Babes 2 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19701
+#EXTINF:-1,Babes 17 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/19703
+#EXTINF:-1,Nubiles Casting (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/13400
+#EXTINF:-1,Erox (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/23177
+#EXTINF:-1,XXX Adult (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/23178
+#EXTINF:-1,Vivid TV CA-FR (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/53706
+#EXTINF:-1,ALBA XXX 1
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666419
+#EXTINF:-1,ALBA XXX 2
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666420
+#EXTINF:5.09867,ALBA XXX 3
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666421
+#EXTINF:-1,ALBA XXX 4
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666422
+#EXTINF:-1,ALBA XXX 5
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666423
+#EXTINF:-1,ALBA XXX 6
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666424
+#EXTINF:-1,Fake Agent HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666425
+#EXTINF:3.34174,Fake Agent 3 HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666427
+#EXTINF:-1,Fake Taxi HD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666428
+#EXTINF:-1,Fake Taxi Female FHD (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666429
+#EXTINF:-1,Sext6senso (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666430
+#EXTINF:-1,Free-XTV (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/666431
+#EXTINF:-1,AST 1 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/672082
+#EXTINF:-1,AST 2 (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/672084
+#EXTINF:-1,Lalkan Erotic (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674059
+#EXTINF:-1,Fake Taxi Hd (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674062
+#EXTINF:-1,Legal Porno Hd (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674063
+#EXTINF:-1,Venus (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674064
+#EXTINF:-1,Max Lesbian Channel (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674065
+#EXTINF:-1,Max Big Dick (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674066
+#EXTINF:-1,Max Big Tits (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674067
+#EXTINF:-1,Max Blonde (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674068
+#EXTINF:-1,Max Blowjob (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674069
+#EXTINF:-1,Max Brunette (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674070
+#EXTINF:-1,Max Compilation (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674071
+#EXTINF:-1,Max Fetish (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674072
+#EXTINF:-1,Max Hardcore (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674074
+#EXTINF:-1,Max Interracial (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674075
+#EXTINF:-1,Max Milf (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674076
+#EXTINF:-1,Max Russian (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674077
+#EXTINF:-1,Max Live Cams (18+)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674078
+#EXTINF:-1,PassionXXX (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674118
+#EXTINF:-1,xxx1 (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674119
+#EXTINF:-1,xxx2 (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674120
+#EXTINF:-1,Stars XXX (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674121
+#EXTINF:7.95954,Super One (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674122
+#EXTINF:-1,Sexx1 (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674123
+#EXTINF:-1,Redlight HD (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674124
+#EXTINF:-1,Hot Club 1 (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674126
+#EXTINF:-1,Hot Club 2 (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674127
+#EXTINF:-1,Dreamporn (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674128
+#EXTINF:-1,EROXXX HD (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674129
+#EXTINF:-1,SeXtreme (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674130
+#EXTINF:-1,Balkan Erotic (+18)
+http://mytv.fun:8080/am83doyllp/edcrfvwsaa/674131
+#EXTINF:3.971,RedTraffic Big Ass HD 720
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:15.975,RedTraffic Big Dick HD 720
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:3.971,RedTraffic Big Tits HD 720
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:5.968,RedTraffic Blowjob HD 720
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:5.968,RedTraffic Cuckold HD 720
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:5.967,RedTraffic Fetish HD 720
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:5.457,RedTraffic Hardcore HD 720
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:5.967,RedTraffic Interracial HD 720
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:5.642,RedTraffic Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:4.922,RedTraffic Lesbian HD 720
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:5.968,RedTraffic Milf HD 720
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:4.992,RedTraffic Pornstar HD 720
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:5.968,RedTraffic POV HD 720
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:5.248,RedTraffic Russian HD 720
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:5.991,RedTraffic Teen HD 720
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:5.318,RedTraffic Threesome HD 720
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:3.96267,Visit-X TV
+http://194.116.150.47:1935/vxtv/live_360p/chunklist_w543388767.m3u8
+#EXTINF:3.94667,Visit-X TV HD 720
+http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+#EXTINF:5.991,MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:5.968,Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:5.248,Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:5.991,Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:5.968,Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:5.108,Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:5.921,Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:7.384,Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:5.968,POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:5.991,Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:5.016,Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:5.967,Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:3.46,Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:5.968,Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:5.991,Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:5.991,Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:5.968,BBW
+http://cdn.adultiptv.net/smoking.m3u8
+#EXTINF:5.968,SMOKING
+http://cdn.adultiptv.net/smoking.m3u8
+#EXTINF:4.18,AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:5.596,AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:5.108,AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:5.968,AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:5.248,AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:4.574,AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:5.991,AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:0,AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:0,AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:3.46,AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:5.991,AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:0,AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:0,AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:5.967,AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:5.921,AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:7.384,AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:5.991,AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:15.89,AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:5.968,AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:5.968,AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:0,AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:5.991,AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:5.016,AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:5.968,AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:1.856,AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:1.9579,AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:5.991,RedTraffic Big Ass HD
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:0,RedTraffic Big Dick HD
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0, RedTraffic Big Tits HD
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:0,RedTraffic Blowjob HD
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0,RedTraffic Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0,RedTraffic Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:0, RedTraffic Hardcore HD
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0,RedTraffic Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0,RedTraffic Latina HD
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0, RedTraffic Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:0,RedTraffic MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0,RedTraffic Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:0, RedTraffic POV HD
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0,RedTraffic Russian HD
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0, RedTraffic Teen HD
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0, RedTraffic Threesome HD
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0, Lesbian:
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:0, Russian:
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0, Latina:
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:5.991, Big Ass:
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:0, Pornstar:
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:0, Fetish:
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:0, Interracial:
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0, BigTits:
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:0, BigDick:
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0, MILF:
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0, Threesome:
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0, Cuckold:
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0, Hardcore:
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0, Teen:
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0, POV:
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0, Blowjob:
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:5.596,Adult IPTV Anal (18+)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:5.108,Adult IPTV Big Ass (18+)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:5.968,Adult IPTV Big Dick (18+)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:5.248,Adult IPTV Big Tits (18+)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:4.574,Adult IPTV Blonde (18+)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:10,Adult IPTV Blowjob (18+)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:0,Adult IPTV Brunette (18+)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:0,Adult IPTV Compilation (18+)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:3.46,Adult IPTV Cuckold (18+)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:5.991,Adult IPTV Fetish (18+)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:0,Adult IPTV Gangbang (18+)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:0,Adult IPTV Gay (18+)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:5.967,Adult IPTV Hardcore (18+)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:5.921,Adult IPTV Interracial (18+)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:7.384,Adult IPTV Latina (18+)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:5.991,Adult IPTV Lesbian (18+)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:4.18,Adult IPTV Livecams (18+)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:5.991,Adult IPTV MILF (18+)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:5.968,Adult IPTV POV (18+)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:5.968,Adult IPTV Pornstar (18+)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:0,Adult IPTV Rough (18+)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:5.991,Adult IPTV Russian (18+)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:5.016,Adult IPTV Teen (18+)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:5.968,Adult IPTV Threesome (18+)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:2.08603,Shemale Tube TV (18+)
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:2.53867,Shemale Tube TV 2 (18+)
+https://www.ast.tv/stream/2/high.m3u8
