@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:0,FTV
 http://212.18.115.177:3169/play/ftv/index.m3u8
 #EXTINF:0,Playboy TV
