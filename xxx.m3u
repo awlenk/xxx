@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0,FTV
-http://212.18.115.177:3169/play/ftv/index.m3u8
 #EXTINF:0,Playboy TV
 http://213.226.137.140:81/tl/l61/mpegts
 #EXTINF:0,Extasy 4K
@@ -26,8 +24,6 @@ http://185.236.229.31:9981/play/a03c
 http://185.236.229.31:9981/play/a03n
 #EXTINF:0,Private HD
 http://185.236.229.31:9981/play/a03p
-#EXTINF:0,Hustler TV
-http://149.62.197.74:9783/play/a00k/index.m3u8
 #EXTINF:0,Redlight HD
 http://109.200.130.123:7032/play/353
 #EXTINF:0,Vivid Red HD
@@ -66,8 +62,6 @@ http://85.11.144.9:4222/BabesTVHD?token=test
 http://85.11.144.9:4222/PinkO?token=test
 #EXTINF:0,Brazzers TV Rurope
 http://85.11.144.9:4222/Brazzers?token=test
-#EXTINF:0,Bearley Legal
-http://85.11.144.9:4222/BarelyLegal?token=test
 #EXTINF:0,Dorcel XXX HD
 http://85.11.144.9:4222/evilangelhd?token=test
 #EXTINF:0,Erox HD
@@ -96,148 +90,264 @@ http://85.11.144.9:4222/Private?token=test
 http://85.11.144.9:4222/RealityKings?token=test
 #EXTINF:0,Vivid Red HD
 http://85.11.144.9:4222/VividTVEurope?token=test
-#EXTINF:8,XY MAX HD
-http://85.11.144.9:4222/XYMAXHD?token=test
-#EXTINF:0,XY Plus HD
-http://85.11.144.9:4222/XYPlusHD?token=test
 #EXTINF:0,XXL HD
 http://85.11.144.9:4222/XXL?token=test
 #EXTINF:0,XY Max HD
 http://85.11.144.9:4222/XYMAXHD?token=test
 #EXTINF:0,XY Plus HD
 http://85.11.144.9:4222/XYPlusHD?token=test
-#EXTINF:0,Penthouse Gold HD
-http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:0,Penthouse Quickies HD
 http://80.24.75.92:5555/udp/239.111.4.2:1234
 #EXTINF:0,Hustler TV
 http://78.83.191.18:8000/play/a078
-#EXTINF:0,PinkErotic 1
-http://54.36.123.36:8080/PinkErotic1/index.m3u8
-#EXTINF:0,PinkErotic 2
-http://54.36.123.36:8080/PinkErotic2/index.m3u8
-#EXTINF:0,PinkErotic 3
-http://54.36.123.36:8080/PinkErotic3/index.m3u8
-#EXTINF:0,PinkErotic 4
-http://54.36.123.36:8080/PinkErotic4/index.m3u8
-#EXTINF:0,PinkErotic 5
-http://54.36.123.36:8080/PinkErotic5/index.m3u8
-#EXTINF:0,PinkErotic 6
-http://54.36.123.36:8080/PinkErotic6/index.m3u8
-#EXTINF:0,PinkErotic 7
-http://54.36.123.36:8080/PinkErotic7/index.m3u8
-#EXTINF:0,PinkErotic 8
-http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:0,Russkaya Noch HD
 http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:0,XXX: Babes TV HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/858
-#EXTINF:0,XXX: Balkan Erotic
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52022
-#EXTINF:0,XXX: Blue Hustler
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/51638
-#EXTINF:0,XXX: Brazzer TV Europe
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48482
-#EXTINF:0,XXX: Cent6cento
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/874
-#EXTINF:0,XXX: Cum 4k UHD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48484
-#EXTINF:0,XXX: DDF Network
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50641
-#EXTINF:0,XXX: Dorcel TV  HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50175
-#EXTINF:0,XXX: Hustler HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/840
-#EXTINF:0,XXX: Hustler HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48461
-#EXTINF:0,XXX: Eromania 4K
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/859
-#EXTINF:0,XXX: Erox HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48468
-#EXTINF:0,XXX: Penthouse Gold HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/51471
-#EXTINF:0,XXX: Penthouse Quickies HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/51470
-#EXTINF:0,XXX: Penthouse Gold HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/871
-#EXTINF:0,XXX: Premium XXX 1 HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/54518
-#EXTINF:0,XXX: Premium XXX 2 HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/54519
-#EXTINF:0,XXX: RedLight HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/1229
-#EXTINF:0,XXX: Venus TV
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48478
-#EXTINF:0,XXX: Vivid TV
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52021
-#EXTINF:0,XXX: Vivid Red HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50912
-#EXTINF:0,XXX: XY Plus
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50914
-#EXTINF:0,XXX: XY Plus
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50906
-#EXTINF:0,XXX: MomsTeachSex.com HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48470
-#EXTINF:0,XXX: Milf TV
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48476
-#EXTINF:0,XXX: Alba XXX HD1
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50644
-#EXTINF:0,XXX: PORNBOX Family Swap
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/1232
-#EXTINF:0,XXX: PORNBOX Public Agent
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48481
-#EXTINF:0,XXX: PORNBOX Vixen
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48464
-#EXTINF:0,XXX: ADULT Channel 5
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/851
-#EXTINF:0,XXX: ADULT Channel 7
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/48479
-#EXTINF:0,XXX: Fake Agent
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/845
-#EXTINF:0,XXX: Erotic
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/853
-#EXTINF:0,XXX: Erotic
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/860
-#EXTINF:0,XXX: Erotic 02
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/867
-#EXTINF:0,XXX: Erotic 04
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/877
-#EXTINF:0,XXX: Erotic 05
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/857
-#EXTINF:0,XXX: Erotic 06
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/839
-#EXTINF:0,XXX: Erotic 06
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/856
-#EXTINF:0,XXX: Erotic 08
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/846
-#EXTINF:0,XXX: RedTraffic Threesome HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50166
-#EXTINF:0,XXX: RedTraffic Teen HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50168
-#EXTINF:0,XXX: RedTraffic Russian HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50169
-#EXTINF:0,XXX: RedTraffic POV HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50170
-#EXTINF:0,XXX: RedTraffic Milf HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50172
-#EXTINF:0,XXX: RedTraffic Lesbian HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50173
-#EXTINF:0,XXX: RedTraffic Latina HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50174
-#EXTINF:0,XXX: RedTraffic Interracial HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50905
-#EXTINF:0,XXX: RedTraffic Hardcore HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50907
-#EXTINF:0,XXX: RedTraffic Fetish HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50908
-#EXTINF:0,XXX: RedTraffic Cuckold HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50909
-#EXTINF:0,XXX: RedTraffic Blowjob HD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/50913
 #EXTINF:0,Babestation HD
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:0,VISIT-X
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0,Babes
+http://ky-iptv.com:80/Miller1234/Miller1234/1860705.ts
+#EXTINF:0,Bang
+http://ky-iptv.com:80/Miller1234/Miller1234/2184892.ts
+#EXTINF:0,Bang Fake Taxi
+http://ky-iptv.com:80/Miller1234/Miller1234/1860727.ts
+#EXTINF:0,Bang OrgieZ
+http://ky-iptv.com:80/Miller1234/Miller1234/1860784.ts
+#EXTINF:0,Bang Bros
+http://ky-iptv.com:80/Miller1234/Miller1234/1860692.ts
+#EXTINF:0,Bang Bros
+http://ky-iptv.com:80/Miller1234/Miller1234/1860704.ts
+#EXTINF:0,Brazzers
+http://ky-iptv.com:80/Miller1234/Miller1234/1860678.ts
+#EXTINF:0,Brazzers.com
+http://ky-iptv.com:80/Miller1234/Miller1234/1915111.ts
+#EXTINF:0,Brazzers Moms In Control
+http://ky-iptv.com:80/Miller1234/Miller1234/1860677.ts
+#EXTINF:0,Czech Casting
+http://ky-iptv.com:80/Miller1234/Miller1234/1860676.ts
+#EXTINF:0,Dorcel Tv
+http://ky-iptv.com:80/Miller1234/Miller1234/773416.ts
+#EXTINF:0,Evil Angel HD
+http://ky-iptv.com:80/Miller1234/Miller1234/773411.ts
+#EXTINF:0,Exploited College Girls
+http://ky-iptv.com:80/Miller1234/Miller1234/1860736.ts
+#EXTINF:0,Fake Taxi
+http://ky-iptv.com:80/Miller1234/Miller1234/1860670.ts
+#EXTINF:0,Fantasy HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1860669.ts
+#EXTINF:0,Girls Try Anal
+http://ky-iptv.com:80/Miller1234/Miller1234/1860668.ts
+#EXTINF:0,Girls Who Fuck Girls
+http://ky-iptv.com:80/Miller1234/Miller1234/2184900.ts
+#EXTINF:0,Glory Hole Secrets
+http://ky-iptv.com:80/Miller1234/Miller1234/1860724.ts
+#EXTINF:0,Hot Club
+http://ky-iptv.com:80/Miller1234/Miller1234/224812.ts
+#EXTINF:0,Hot Club
+http://ky-iptv.com:80/Miller1234/Miller1234/398848.ts
+#EXTINF:0,Hot Taboo
+http://ky-iptv.com:80/Miller1234/Miller1234/1982307.ts
+#EXTINF:0,Hot Wife
+http://ky-iptv.com:80/Miller1234/Miller1234/1860755.ts
+#EXTINF:0,Hot XXL
+http://ky-iptv.com:80/Miller1234/Miller1234/1982308.ts
+#EXTINF:0,Mad Sex Parties
+http://ky-iptv.com:80/Miller1234/Miller1234/1860794.ts
+#EXTINF:0,Moms Bang Teens
+http://ky-iptv.com:80/Miller1234/Miller1234/1860723.ts
+#EXTINF:0,Moms Teach Sex
+http://ky-iptv.com:80/Miller1234/Miller1234/1860721.ts
+#EXTINF:0,Playboy TV
+http://ky-iptv.com:80/Miller1234/Miller1234/217952.ts
+#EXTINF:0,Pornhub Filthy
+http://ky-iptv.com:80/Miller1234/Miller1234/1860711.ts
+#EXTINF:0,Redlight HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1915212.ts
+#EXTINF:0,Redlight HD
+http://ky-iptv.com:80/Miller1234/Miller1234/773438.ts
+#EXTINF:0,Vivid TV
+http://ky-iptv.com:80/Miller1234/Miller1234/773444.ts
+#EXTINF:0,Vixen
+http://ky-iptv.com:80/Miller1234/Miller1234/1982332.ts
+#EXTINF:0,XXL HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1982338.ts
+#EXTINF:0,X Bizarre
+http://ky-iptv.com:80/Miller1234/Miller1234/1982333.ts
+#EXTINF:0,XXX: Alba XXX 3 HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1915170.ts
+#EXTINF:0,XXX: BangU HD
+http://ky-iptv.com:80/Miller1234/Miller1234/773405.ts
+#EXTINF:0,XXX: Black
+http://ky-iptv.com:80/Miller1234/Miller1234/1138969.ts
+#EXTINF:0,XXX: Brazzers
+http://ky-iptv.com:80/Miller1234/Miller1234/218077.ts
+#EXTINF:0,XXX: Czech Streets HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1990350.ts
+#EXTINF:0,XXX: Dream Porn
+http://ky-iptv.com:80/Miller1234/Miller1234/1982297.ts
+#EXTINF:0,XXX: Erotic 2
+http://ky-iptv.com:80/Miller1234/Miller1234/224782.ts
+#EXTINF:0,XXX: Erotic 5
+http://ky-iptv.com:80/Miller1234/Miller1234/224785.ts
+#EXTINF:0,XXX: Fake Agent
+http://ky-iptv.com:80/Miller1234/Miller1234/1915336.ts
+#EXTINF:0,XXX: Gender Trans HD
+http://ky-iptv.com:80/Miller1234/Miller1234/1915190.ts
+#EXTINF:0,XXX: Miami TV
+http://ky-iptv.com:80/Miller1234/Miller1234/773427.ts
+#EXTINF:0,XXX: Mofos
+http://ky-iptv.com:80/Miller1234/Miller1234/1982314.ts
+#EXTINF:0,XXX: O-La-La
+http://ky-iptv.com:80/Miller1234/Miller1234/1915213.ts
+#EXTINF:0,XXX: Adult Paradise 1
+http://ky-iptv.com:80/Miller1234/Miller1234/217985.ts
+#EXTINF:0,XXX: Adult Paradise 2
+http://ky-iptv.com:80/Miller1234/Miller1234/1860706.ts
+#EXTINF:0,XXX: Adult Paradise 3
+http://ky-iptv.com:80/Miller1234/Miller1234/399086.ts
+#EXTINF:0,XXX: Adult Paradise 4
+http://ky-iptv.com:80/Miller1234/Miller1234/217988.ts
+#EXTINF:0,XXX: Adult Paradise 5
+http://ky-iptv.com:80/Miller1234/Miller1234/217989.ts
+#EXTINF:0,XXX: Adult Paradise 6
+http://ky-iptv.com:80/Miller1234/Miller1234/217990.ts
+#EXTINF:0,XXX: Adult Paradise 7
+http://ky-iptv.com:80/Miller1234/Miller1234/217991.ts
+#EXTINF:0,XXX: Adult Paradise 8
+http://ky-iptv.com:80/Miller1234/Miller1234/217992.ts
+#EXTINF:0,XXX: Adult Paradise 9
+http://ky-iptv.com:80/Miller1234/Miller1234/217993.ts
+#EXTINF:0,XXX: Adult Paradise 10
+http://ky-iptv.com:80/Miller1234/Miller1234/217994.ts
+#EXTINF:0,XXX: Adult Paradise 11
+http://ky-iptv.com:80/Miller1234/Miller1234/819498.ts
+#EXTINF:0,XXX: Adult Paradise 12
+http://ky-iptv.com:80/Miller1234/Miller1234/217931.ts
+#EXTINF:0,XXX: Adult Paradise 13
+http://ky-iptv.com:80/Miller1234/Miller1234/911979.ts
+#EXTINF:0,XXX: Adult Paradise 14
+http://ky-iptv.com:80/Miller1234/Miller1234/217948.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 1
+http://ky-iptv.com:80/Miller1234/Miller1234/217966.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 2
+http://ky-iptv.com:80/Miller1234/Miller1234/399081.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 3
+http://ky-iptv.com:80/Miller1234/Miller1234/399082.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 4
+http://ky-iptv.com:80/Miller1234/Miller1234/399083.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 5
+http://ky-iptv.com:80/Miller1234/Miller1234/217970.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 6
+http://ky-iptv.com:80/Miller1234/Miller1234/217971.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 7
+http://ky-iptv.com:80/Miller1234/Miller1234/399085.ts
+#EXTINF:0,XXX: Adult Girls Do Porn 8
+http://ky-iptv.com:80/Miller1234/Miller1234/217974.ts
+#EXTINF:0,XXX: 08EIGHTEEN
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126171
+#EXTINF:0,XXX: ASSIM VC ME MATA
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189345
+#EXTINF:0,XXX: BABANDO DE TESAO
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189343
+#EXTINF:0,XXX: BANGBROS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126168
+#EXTINF:0,XXX: BLACKED
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126167
+#EXTINF:0,XXX: BLOWJOBS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126166
+#EXTINF:0,XXX: BRATTY SIS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126165
+#EXTINF:0,XXX: BRAZZERS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126164
+#EXTINF:0,XXX: CLUB SEVENTEEN
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126163
+#EXTINF:0,XXX: DAREDORM
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126162
+#EXTINF:0,XXX: DEPOIS DOS 40
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189346
+#EXTINF:0,XXX: Devils Film HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108994
+#EXTINF:0,XXX: DORCEL TV
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189489
+#EXTINF:0,XXX: EBONY
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126161
+#EXTINF:0,XXX: FAZENDO SACANAGEM
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189344
+#EXTINF:0,XXX: LESBIAN
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126160
+#EXTINF:0,XXX: Moms Teach Sex
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126169
+#EXTINF:0,XXX: NUBILE
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126159
+#EXTINF:0,XXX: PLAYBOY HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110369
+#EXTINF:0,XXX: PLAYBOY HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108992
+#EXTINF:0,XXX: PROPERTY SEX
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126158
+#EXTINF:0,XXX: RUSNOCH
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189490
+#EXTINF:0,XXX: SEXTREME HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109001
+#EXTINF:0,XXX: SEXY HOT SD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
+#EXTINF:0,XXX: TEENS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126156
+#EXTINF:0,XXX: TEENS FOR CASH
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126155
+#EXTINF:0,XXX: VENUS HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109000
+#EXTINF:0,XXX: VENUS SD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108996
+#EXTINF:0,XXX: WE LIVE TOGETHER
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126154
+#EXTINF:0,PORNBOX: BRAZZERS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126153
+#EXTINF:0,PORNBOX: EXOTIC 4K
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126152
+#EXTINF:0,PORNBOX: HENTAI
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126150
+#EXTINF:0,PORNBOX: JAPAN LUST
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126149
+#EXTINF:0,PORNBOX: MOFOS LAB
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126147
+#EXTINF:0,XXX: CONNECT 1
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126173
+#EXTINF:0,XXX: CONNECT 2
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126174
+#EXTINF:0,XXX: CONNECT 3
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126175
+#EXTINF:0,XXX: CONNECT 4
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126176
+#EXTINF:0,XXX: CONNECT 5
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126177
+#EXTINF:0,XXX: CONNECT 6
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126178
+#EXTINF:0,XXX: CONNECT 7
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126179
+#EXTINF:0,XXX: ADULTOS 1
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126190
+#EXTINF:0,XXX: ADULTOS 2
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126189
+#EXTINF:0,XXX: ADULTOS 3
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126188
+#EXTINF:0,XXX: ADULTOS 4
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126187
+#EXTINF:0,XXX: ADULTOS 5
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126186
+#EXTINF:0,XXX: ADULTOS 6
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126185
+#EXTINF:0,XXX: ADULTOS 7
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126184
+#EXTINF:0,XXX: ADULTOS 8
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126183
+#EXTINF:0,XXX: ADULTOS 9
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126182
+#EXTINF:0,XXX: ADULTOS 10
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126181
+#EXTINF:0,XXX: ADULTOS 11
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126180
 #EXTINF:0,Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:0,Big Ass
@@ -348,419 +458,3 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:0,RedTraffic Threesome HD
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0,XXX: 08EIGHTEEN
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126171
-#EXTINF:0,XXX: ASSIM VC ME MATA
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189345
-#EXTINF:0,XXX: BABANDO DE TESAO
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189343
-#EXTINF:0,XXX: BANGBROS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126168
-#EXTINF:0,XXX: BLACKED
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126167
-#EXTINF:0,XXX: BLOWJOBS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126166
-#EXTINF:0,XXX: BRATTY SIS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126165
-#EXTINF:0,XXX: BRAZZERS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126164
-#EXTINF:0,XXX: CLUB SEVENTEEN
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126163
-#EXTINF:0,XXX: DAREDORM
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126162
-#EXTINF:0,XXX: DEPOIS DOS 40
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189346
-#EXTINF:0,XXX: Devils Film HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108994
-#EXTINF:0,XXX: DORCEL TV
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189489
-#EXTINF:0,XXX: EBONY
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126161
-#EXTINF:0,XXX: FAZENDO SACANAGEM
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189344
-#EXTINF:0,XXX: LESBIAN
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126160
-#EXTINF:0,XXX: Moms Teach Sex
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126169
-#EXTINF:0,XXX: NUBILE
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126159
-#EXTINF:0,XXX: PLAYBOY HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110369
-#EXTINF:0,XXX: PLAYBOY HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108992
-#EXTINF:0,XXX: PROPERTY SEX
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126158
-#EXTINF:0,XXX: RUSNOCH
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/189490
-#EXTINF:0,XXX: SEXTREME HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109001
-#EXTINF:0,XXX: SEXY HOT SD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
-#EXTINF:0,XXX: TEENS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126156
-#EXTINF:0,XXX: TEENS FOR CASH
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126155
-#EXTINF:0,XXX: VENUS HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109000
-#EXTINF:0,XXX: VENUS SD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108996
-#EXTINF:0,XXX: WE LIVE TOGETHER
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126154
-#EXTINF:0,PORNBOX: BRAZZERS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126153
-#EXTINF:0,PORNBOX: EXOTIC 4K
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126152
-#EXTINF:0,PORNBOX: HENTAI
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126150
-#EXTINF:0,PORNBOX: JAPAN LUST
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126149
-#EXTINF:0,PORNBOX: MOFOS LAB
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126147
-#EXTINF:0,XXX: CONNECT 1
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126173
-#EXTINF:0,XXX: CONNECT 2
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126174
-#EXTINF:0,XXX: CONNECT 3
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126175
-#EXTINF:0,XXX: CONNECT 4
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126176
-#EXTINF:0,XXX: CONNECT 5
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126177
-#EXTINF:0,XXX: CONNECT 6
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126178
-#EXTINF:0,XXX: CONNECT 7
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126179
-#EXTINF:0,XXX: ADULTOS 1
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126190
-#EXTINF:0,XXX: ADULTOS 2
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126189
-#EXTINF:0,XXX: ADULTOS 3
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126188
-#EXTINF:0,XXX: ADULTOS 4
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126187
-#EXTINF:0,XXX: ADULTOS 5
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126186
-#EXTINF:0,XXX: ADULTOS 6
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126185
-#EXTINF:0,XXX: ADULTOS 7
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126184
-#EXTINF:0,XXX: ADULTOS 8
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126183
-#EXTINF:0,XXX: ADULTOS 9
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126182
-#EXTINF:0,XXX: ADULTOS 10
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126181
-#EXTINF:0,XXX: ADULTOS 11
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126180
-#EXTINF:0,Babes
-http://ky-iptv.com:80/Miller1234/Miller1234/1860705.ts
-#EXTINF:0,Bang
-http://ky-iptv.com:80/Miller1234/Miller1234/1860763.ts
-#EXTINF:0,Bang
-http://ky-iptv.com:80/Miller1234/Miller1234/2184892.ts
-#EXTINF:0,Bang Amateurs
-http://ky-iptv.com:80/Miller1234/Miller1234/1860766.ts
-#EXTINF:0,Bang Fake Taxi
-http://ky-iptv.com:80/Miller1234/Miller1234/1860727.ts
-#EXTINF:0,Bang Mom & Abused
-http://ky-iptv.com:80/Miller1234/Miller1234/1860712.ts
-#EXTINF:0,Bang OrgieZ
-http://ky-iptv.com:80/Miller1234/Miller1234/1860784.ts
-#EXTINF:0,Bang Bros
-http://ky-iptv.com:80/Miller1234/Miller1234/1860692.ts
-#EXTINF:0,Bang Bros
-http://ky-iptv.com:80/Miller1234/Miller1234/1860704.ts
-#EXTINF:0,Brazzers
-http://ky-iptv.com:80/Miller1234/Miller1234/1860678.ts
-#EXTINF:0,Brazzers.com
-http://ky-iptv.com:80/Miller1234/Miller1234/1915111.ts
-#EXTINF:0,Brazzers Moms In Control
-http://ky-iptv.com:80/Miller1234/Miller1234/1860677.ts
-#EXTINF:0,Czech Casting
-http://ky-iptv.com:80/Miller1234/Miller1234/1860676.ts
-#EXTINF:0,Dorcel XXX HD
-http://ky-iptv.com:80/Miller1234/Miller1234/773416.ts
-#EXTINF:0,Evil Angel HD
-http://ky-iptv.com:80/Miller1234/Miller1234/773411.ts
-#EXTINF:0,Exploited College Girls
-http://ky-iptv.com:80/Miller1234/Miller1234/1860736.ts
-#EXTINF:0,Fake Taxi
-http://ky-iptv.com:80/Miller1234/Miller1234/1860670.ts
-#EXTINF:0,Fake Taxi
-http://ky-iptv.com:80/Miller1234/Miller1234/1860717.ts
-#EXTINF:0,Fantasy HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1860669.ts
-#EXTINF:0,Girls Try Anal
-http://ky-iptv.com:80/Miller1234/Miller1234/1860668.ts
-#EXTINF:0,Girls Who Fuck Girls
-http://ky-iptv.com:80/Miller1234/Miller1234/2184900.ts
-#EXTINF:0,Glory Hole Secrets
-http://ky-iptv.com:80/Miller1234/Miller1234/1860724.ts
-#EXTINF:0,Hot Club
-http://ky-iptv.com:80/Miller1234/Miller1234/224812.ts
-#EXTINF:0,Hot Club
-http://ky-iptv.com:80/Miller1234/Miller1234/398848.ts
-#EXTINF:0,Hot Taboo
-http://ky-iptv.com:80/Miller1234/Miller1234/1982307.ts
-#EXTINF:0,Hot Wife
-http://ky-iptv.com:80/Miller1234/Miller1234/1860755.ts
-#EXTINF:0,Hot XXL
-http://ky-iptv.com:80/Miller1234/Miller1234/1982308.ts
-#EXTINF:0,Mad Sex Parties
-http://ky-iptv.com:80/Miller1234/Miller1234/1860794.ts
-#EXTINF:0,Meiden Van Holland HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1982311.ts
-#EXTINF:0,Moms Bang Teens
-http://ky-iptv.com:80/Miller1234/Miller1234/1860723.ts
-#EXTINF:0,Moms Teach Sex
-http://ky-iptv.com:80/Miller1234/Miller1234/1860721.ts
-#EXTINF:0,Playboy TV
-http://ky-iptv.com:80/Miller1234/Miller1234/217952.ts
-#EXTINF:0,Pornhub Filthy
-http://ky-iptv.com:80/Miller1234/Miller1234/1860711.ts
-#EXTINF:0,Redlight HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1915212.ts
-#EXTINF:0,Redlight HD
-http://ky-iptv.com:80/Miller1234/Miller1234/773438.ts
-#EXTINF:0,Vivid TV
-http://ky-iptv.com:80/Miller1234/Miller1234/773444.ts
-#EXTINF:0,Vivid Celeb
-http://ky-iptv.com:80/Miller1234/Miller1234/1860750.ts
-#EXTINF:0,Vivid Classic
-http://ky-iptv.com:80/Miller1234/Miller1234/1860749.ts
-#EXTINF:0,Vixen
-http://ky-iptv.com:80/Miller1234/Miller1234/1860746.ts
-#EXTINF:0,Vixen
-http://ky-iptv.com:80/Miller1234/Miller1234/1982332.ts
-#EXTINF:0,XXL HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1982338.ts
-#EXTINF:0,X Bizarre
-http://ky-iptv.com:80/Miller1234/Miller1234/1982333.ts
-#EXTINF:0,XXX: Alba XXX 3 HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1915170.ts
-#EXTINF:0,XXX: BangU HD
-http://ky-iptv.com:80/Miller1234/Miller1234/773405.ts
-#EXTINF:0,XXX: Black
-http://ky-iptv.com:80/Miller1234/Miller1234/1138969.ts
-#EXTINF:0,XXX: Brazzers
-http://ky-iptv.com:80/Miller1234/Miller1234/218077.ts
-#EXTINF:0,XXX: Czech Streets HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1990350.ts
-#EXTINF:0,XXX: Dream Porn
-http://ky-iptv.com:80/Miller1234/Miller1234/1982297.ts
-#EXTINF:0,XXX: Erotic 2
-http://ky-iptv.com:80/Miller1234/Miller1234/224782.ts
-#EXTINF:0,XXX: Erotic 5
-http://ky-iptv.com:80/Miller1234/Miller1234/224785.ts
-#EXTINF:0,XXX: Fake Agent
-http://ky-iptv.com:80/Miller1234/Miller1234/1915336.ts
-#EXTINF:0,XXX: Gender Trans HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1915190.ts
-#EXTINF:0,XXX: Jerk Off With ME
-http://ky-iptv.com:80/Miller1234/Miller1234/1915122.ts
-#EXTINF:0,XXX: Lesbian HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1915143.ts
-#EXTINF:0,XXX: Miami TV
-http://ky-iptv.com:80/Miller1234/Miller1234/773427.ts
-#EXTINF:0,XXX: Mofos
-http://ky-iptv.com:80/Miller1234/Miller1234/1982314.ts
-#EXTINF:0,XXX: O-La-La
-http://ky-iptv.com:80/Miller1234/Miller1234/1915213.ts
-#EXTINF:0,XXX: Secret Circle
-http://ky-iptv.com:80/Miller1234/Miller1234/1982325.ts
-#EXTINF:0,XXX: Sextreme HD
-http://ky-iptv.com:80/Miller1234/Miller1234/1982327.ts
-#EXTINF:0,XXX: Adult Paradise 1
-http://ky-iptv.com:80/Miller1234/Miller1234/217985.ts
-#EXTINF:0,XXX: Adult Paradise 2
-http://ky-iptv.com:80/Miller1234/Miller1234/1860706.ts
-#EXTINF:0,XXX: Adult Paradise 3
-http://ky-iptv.com:80/Miller1234/Miller1234/399086.ts
-#EXTINF:0,XXX: Adult Paradise 4
-http://ky-iptv.com:80/Miller1234/Miller1234/217988.ts
-#EXTINF:0,XXX: Adult Paradise 5
-http://ky-iptv.com:80/Miller1234/Miller1234/217989.ts
-#EXTINF:0,XXX: Adult Paradise 6
-http://ky-iptv.com:80/Miller1234/Miller1234/217990.ts
-#EXTINF:0,XXX: Adult Paradise 7
-http://ky-iptv.com:80/Miller1234/Miller1234/217991.ts
-#EXTINF:0,XXX: Adult Paradise 8
-http://ky-iptv.com:80/Miller1234/Miller1234/217992.ts
-#EXTINF:0,XXX: Adult Paradise 9
-http://ky-iptv.com:80/Miller1234/Miller1234/217993.ts
-#EXTINF:0,XXX: Adult Paradise 10
-http://ky-iptv.com:80/Miller1234/Miller1234/217994.ts
-#EXTINF:0,XXX: Adult Paradise 11
-http://ky-iptv.com:80/Miller1234/Miller1234/819498.ts
-#EXTINF:0,XXX: Adult Paradise 12
-http://ky-iptv.com:80/Miller1234/Miller1234/217931.ts
-#EXTINF:0,XXX: Adult Paradise 13
-http://ky-iptv.com:80/Miller1234/Miller1234/911979.ts
-#EXTINF:0,XXX: Adult Paradise 14
-http://ky-iptv.com:80/Miller1234/Miller1234/217948.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 1
-http://ky-iptv.com:80/Miller1234/Miller1234/217966.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 2
-http://ky-iptv.com:80/Miller1234/Miller1234/399081.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 3
-http://ky-iptv.com:80/Miller1234/Miller1234/399082.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 4
-http://ky-iptv.com:80/Miller1234/Miller1234/399083.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 5
-http://ky-iptv.com:80/Miller1234/Miller1234/217970.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 6
-http://ky-iptv.com:80/Miller1234/Miller1234/217971.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 7
-http://ky-iptv.com:80/Miller1234/Miller1234/399085.ts
-#EXTINF:0,XXX: Adult Girls Do Porn 8
-http://ky-iptv.com:80/Miller1234/Miller1234/217974.ts
-#EXTINF:0,XXX: PORNBOX Porno Academie
-http://ky-iptv.com:80/Miller1234/Miller1234/1915329.ts
-#EXTINF:0,XXX: PORNBOX Sis Loves Me
-http://ky-iptv.com:80/Miller1234/Miller1234/1915377.ts
-#EXTINF:0,Brazzers.com
-http://cdn.globalserver.me:8080/399977/528931/528019
-#EXTINF:0,Brazzers.com
-http://cdn.globalserver.me:8080/399977/528931/407804
-#EXTINF:0,DorcelClub.com
-http://cdn.globalserver.me:8080/399977/528931/157864
-#EXTINF:0,MomsTeachSex
-http://cdn.globalserver.me:8080/399977/528931/434574
-#EXTINF:0,Playboy TV HD
-http://cdn.globalserver.me:8080/399977/528931/434553
-#EXTINF:0,SexyHot HD
-http://cdn.globalserver.me:8080/399977/528931/434569
-#EXTINF:0,Venus HD
-http://cdn.globalserver.me:8080/399977/528931/434568
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407819
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407803
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407812
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407832
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/157865
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/157867
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/157870
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407838
-#EXTINF:0,[XX] 18+
-http://cdn.globalserver.me:8080/399977/528931/407815
-#EXTINF:0,[XX] ASIAN
-http://cdn.globalserver.me:8080/399977/528931/407820
-#EXTINF:0,[XX] BIG ASS
-http://cdn.globalserver.me:8080/399977/528931/407802
-#EXTINF:0,[XX] BIG DICK
-http://cdn.globalserver.me:8080/399977/528931/407798
-#EXTINF:0,[XX] BLOWJOB
-http://cdn.globalserver.me:8080/399977/528931/407806
-#EXTINF:0,[XX] BRUNetTE
-http://cdn.globalserver.me:8080/399977/528931/407817
-#EXTINF:0,[XX] CENTOXCENTO
-http://cdn.globalserver.me:8080/399977/528931/528018
-#EXTINF:0,[XX] ALBAXXX HD 6
-http://cdn.globalserver.me:8080/399977/528931/407809
-#EXTINF:0,[XX] FETISH
-http://cdn.globalserver.me:8080/399977/528931/407800
-#EXTINF:0,[XX] GANGBANG
-http://cdn.globalserver.me:8080/399977/528931/407814
-#EXTINF:0,[XX] HARDCORE
-http://cdn.globalserver.me:8080/399977/528931/407808
-#EXTINF:0,[XX] LIVE CAMS
-http://cdn.globalserver.me:8080/399977/528931/407796
-#EXTINF:0,[XX] Playboy HD
-http://cdn.globalserver.me:8080/399977/528931/407833
-#EXTINF:0,[XX] Playboy TV HD
-http://cdn.globalserver.me:8080/399977/528931/407834
-#EXTINF:0,[XX] Playboy TV SD
-http://cdn.globalserver.me:8080/399977/528931/157866
-#EXTINF:0,[XX] POV
-http://cdn.globalserver.me:8080/399977/528931/407805
-#EXTINF:0,[XX] ROUGH
-http://cdn.globalserver.me:8080/399977/528931/407813
-#EXTINF:0,[XX] RUSSIAN
-http://cdn.globalserver.me:8080/399977/528931/407811
-#EXTINF:0,[XX] Sex Treme HD
-http://cdn.globalserver.me:8080/399977/528931/407835
-#EXTINF:0,[XX] Sex Treme HD
-http://cdn.globalserver.me:8080/399977/528931/407836
-#EXTINF:0,[XX] Sex Treme HD
-http://cdn.globalserver.me:8080/399977/528931/157868
-#EXTINF:0,[XX] Sex Treme SD
-http://cdn.globalserver.me:8080/399977/528931/407837
-#EXTINF:0,[XX] SEXY Hot HD
-http://cdn.globalserver.me:8080/399977/528931/157871
-#EXTINF:0,[XX] SEXY Hot HD
-http://cdn.globalserver.me:8080/399977/528931/407839
-#EXTINF:0,[XX] BRASILEIRINHAS 01
-http://cdn.globalserver.me:8080/399977/528931/528007
-#EXTINF:0,[XX] BRASILEIRINHAS 02
-http://cdn.globalserver.me:8080/399977/528931/528008
-#EXTINF:0,[XX] BRASILEIRINHAS 03
-http://cdn.globalserver.me:8080/399977/528931/528009
-#EXTINF:0,[XX] BRASILEIRINHAS 04
-http://cdn.globalserver.me:8080/399977/528931/528010
-#EXTINF:0,[XX] BRASILEIRINHAS 05
-http://cdn.globalserver.me:8080/399977/528931/528011
-#EXTINF:0,[XX] BRASILEIRINHAS 06
-http://cdn.globalserver.me:8080/399977/528931/528012
-#EXTINF:0,[XX] BRASILEIRINHAS 07
-http://cdn.globalserver.me:8080/399977/528931/528013
-#EXTINF:0,[XX] BRASILEIRINHAS 08
-http://cdn.globalserver.me:8080/399977/528931/528014
-#EXTINF:0,[XX] BRASILEIRINHAS 09
-http://cdn.globalserver.me:8080/399977/528931/528015
-#EXTINF:0,[XX] BRASILEIRINHAS 10
-http://cdn.globalserver.me:8080/399977/528931/528016
-#EXTINF:0,[XX] BRASILEIRINHAS 4K
-http://cdn.globalserver.me:8080/399977/528931/407810
-#EXTINF:0,[XX] ADULTO X
-http://cdn.globalserver.me:8080/399977/528931/434567
-#EXTINF:0,[XX] ADULTO 1
-http://cdn.globalserver.me:8080/399977/528931/527986
-#EXTINF:0,[XX] ADULTO 2
-http://cdn.globalserver.me:8080/399977/528931/434563
-#EXTINF:0,[XX] ADULTO 3
-http://cdn.globalserver.me:8080/399977/528931/527998
-#EXTINF:0,[XX] ADULTO 4
-http://cdn.globalserver.me:8080/399977/528931/527999
-#EXTINF:0,[XX] ADULTO 5
-http://cdn.globalserver.me:8080/399977/528931/528000
-#EXTINF:0,[XX] ADULTO 6
-http://cdn.globalserver.me:8080/399977/528931/527997
-#EXTINF:0,[XX] ADULTO 7
-http://cdn.globalserver.me:8080/399977/528931/528001
-#EXTINF:0,[XX] ADULTO 8
-http://cdn.globalserver.me:8080/399977/528931/528002
-#EXTINF:0,[XX] ADULTO 9
-http://cdn.globalserver.me:8080/399977/528931/528003
-#EXTINF:0,[XX] ADULTO 10
-http://cdn.globalserver.me:8080/399977/528931/527987
-#EXTINF:0,[XX] ADULTO 11
-http://cdn.globalserver.me:8080/399977/528931/527988
-#EXTINF:0,[XX] ADULTO 12
-http://cdn.globalserver.me:8080/399977/528931/527989
-#EXTINF:0,[XX] ADULTO 13
-http://cdn.globalserver.me:8080/399977/528931/527990
-#EXTINF:0,[XX] ADULTO 14
-http://cdn.globalserver.me:8080/399977/528931/527991
-#EXTINF:0,[XX] ADULTO 15
-http://cdn.globalserver.me:8080/399977/528931/527992
-#EXTINF:0,[XX] ADULTO 16
-http://cdn.globalserver.me:8080/399977/528931/527993
-#EXTINF:0,[XX] ADULTO 17
-http://cdn.globalserver.me:8080/399977/528931/527994
-#EXTINF:0,[XX] ADULTO 18
-http://cdn.globalserver.me:8080/399977/528931/527995
-#EXTINF:0,[XX] ADULTO 19
-http://cdn.globalserver.me:8080/399977/528931/527996
-#EXTINF:0,[XX] ADULTO 20
-http://cdn.globalserver.me:8080/399977/528931/528004
-#EXTINF:0,[XX] ADULTO 21
-http://cdn.globalserver.me:8080/399977/528931/528005
-#EXTINF:0,[XX] ADULTO 22
-http://cdn.globalserver.me:8080/399977/528931/528006
