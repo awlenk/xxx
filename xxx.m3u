@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.ovh/pl.gz"
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1,||XXX|| BRAZZERS TV HD
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/2112
 #EXTINF:-1,||XXX|| DORCEL XXX
